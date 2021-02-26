@@ -1,0 +1,7 @@
+Atlit Kata
+- Maksimalkan Basic
+- Maksimalkan kekuatan Dachi
+- Percepat gerakan Kaki
+- Percepat gerakan Tangan
+- singkronkan gerakan tangan dan kaki
+- Maksimalkan gerakan snap
